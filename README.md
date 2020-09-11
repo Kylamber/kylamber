@@ -1,4 +1,6 @@
 # Welcome To My Github Page
+I want to create tools so that people can have an easy time creating stuffs.
+Hopefully revolutionize something. As if.
 
 ## About
 ### ✨ Currently
