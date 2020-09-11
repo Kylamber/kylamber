@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome To My Github Page
 
-<!--
-**kylamberz/kylamberz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+# ✨ Currently
+- Physics Freshman.
 
-Here are some ideas to get you started:
+# 🔭 Working on 
+- Python scheduler + reminder;
+- Flask productivity site.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌱 Learning 
+- Deep Learning For Physicist.
+
+# ⚡ Fun fact
+- I like doing many things.
