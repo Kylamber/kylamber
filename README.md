@@ -1,19 +1,7 @@
 # Welcome To My Github Page
-I want to create tools so that people can have an easy time creating stuffs.<br>
-Hopefully revolutionize something. As if.<br>
-I should be continuing my project than making a github readme profile...
+I want to create tools that ease my life.
 
 ## About
-### ✨ Currently
-- Physics Freshman.
-
-### 🌱 Learning 
-- Deep Learning For Physicist.
-
-### ⚡ Fun fact
-- I like doing many things.
-
-## Else
 ### 🔭 Working on 
 - Python scheduler + reminder;
 - Flask productivity site.
